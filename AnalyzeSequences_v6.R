@@ -334,7 +334,7 @@ for (i in seq_len(l)) {
 par(p)
 
 write.csv(results,
-	file="~/Desktop/Virus/ncov/data/genomes/results_v5.csv")
+	file="results_v5.csv")
 
 ## Compute statistics including dN/dS
 
